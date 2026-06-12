@@ -55,6 +55,20 @@
       ]
     },
     {
+      "id": "sqlite-persistence",
+      "title": "SQLite Database Persistence",
+      "description": "Use Python and SQLite to create, read, update, and delete records in a local database.",
+      "path": "assignments/sqlite-persistence",
+      "dueDate": "2026-07-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
